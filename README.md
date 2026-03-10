@@ -1,13 +1,15 @@
 # LongProject1
 
 Member Roles:
+Hagop - Frequency Asked Questions (FAQ) section 
+Manav - Student Resources Section
+Krishna - Media & video Tour 
+John - Facilities & Location Update
+Roshan - Web design and Navigation 
+Martin - CS servers & Technical Resources
+Muhammad - Website Content Review
 -
 -
 -
 -
 -
--
-
-TO DO LIST:
-- Make seperate files for each member role
-- Make general Website Style like the umb.edu website
